@@ -1,0 +1,40 @@
+
+/***************Tag Selectors**************/
+    body{
+      background-color:  #ffef96;
+    }
+    hr{
+      border-width: 5px;
+      border-style: none;
+      border-color: grey;
+      border-top-style: dotted;
+      width: 5%;
+      background-color: #d4b300;
+    }
+h1{
+  color: #554800;
+  background-color: #d4b300;
+}
+h2{
+  color: #554800;
+  background-color: #d4b300;
+}
+
+h3{
+  color: #554800;
+  background-color: #d4b300;
+}
+/***************Class Selectors**************/
+.Ishaan{
+  background-color: #d4b300;
+}
+
+.Telephone{
+  background-color: grey;
+}
+
+/***************ID Selectors**************/
+#Main{
+  font-family: "Brush Script MT";
+  color: #554800;
+}
