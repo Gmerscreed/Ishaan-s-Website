@@ -168,7 +168,7 @@ ul.address {
     text-transform: uppercase;
 }
 ul.address {
-    margin-top: 2em;
+    margin-top: 2rem;
     border-top: 1px solid #AFAFAF;
     padding-top: 0.5em;
 }
@@ -177,13 +177,13 @@ ul.address li {
 }
 ul.address li ul.address-text li {
     display: inline-block;
-    font-size: 1em;
+    font-size: 100%;
     color:black;
-    margin-top: 1em;
-	font-weight: 500;
+    margin-top: 1rem;
+	  font-weight: 500;
 }
 ul.address li ul.address-text li:nth-child(1){
-	width: 20%;
+	width: auto;
 }
 ul.address li ul.address-text li a {
     color: #fff;
@@ -194,7 +194,7 @@ ul.address li ul.address-text li a:hover{
 }
 ul.address-text b {
     color:black;
-	font-size:1.5em;
+	font-size:1.5rem;
 }
 /*--social-icons--*/
 ul.social-icons{
